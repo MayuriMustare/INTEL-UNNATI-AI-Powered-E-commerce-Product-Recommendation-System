@@ -67,3 +67,11 @@ http://localhost:8501
 [YouTube Video Link](https://youtu.be/oRDljOgzAXY)
 
 [Drive Video Link](https://drive.google.com/file/d/1QRiYVOk_4Fb7Mm6KyAbmiSPyGoDXJMnL/view?usp=drivesdk)
+
+## Team Members-
+
+1] Miss. Mayuri Mustare [Team Leader]
+2] Mr. Nakul Sumthankar
+3] Mr. Gulam Mujtaba Quadri
+
+College Name-MGM's College Of Engineering, Nanded. 
