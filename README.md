@@ -70,8 +70,10 @@ http://localhost:8501
 
 ## Team Members-
 
-1] Miss. Mayuri Mustare [Team Leader]
-2] Mr. Nakul Sumthankar
-3] Mr. Gulam Mujtaba Quadri
+1] Miss. Mayuri Mustare [Team Leader Worked on Dataset Preprocessing and Model]
 
-College Name-MGM's College Of Engineering, Nanded. 
+2] Mr. Nakul Sumthankar [Worked on Model and Backend]
+
+3] Mr. Gulam Mujtaba Quadri [Worked on Frontend & Interface Design]
+
+College Name- MGM's College Of Engineering, Nanded. 
