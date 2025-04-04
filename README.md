@@ -50,4 +50,14 @@ You can install the required libraries using a `requirements.txt` file if provid
 
 ```bash
 pip install streamlit pandas
-exit
+```
+## Running the App-
+To launch the Streamlit application, use the following command:
+
+```bash
+streamlit run app.py
+```
+Once started, your default web browser will open and load the app at:
+```bash
+http://localhost:8501
+```
