@@ -10,3 +10,12 @@ The application allows users to:
 - Get **personalized product recommendations** based on historical purchase data.
 
 ---
+##  Features
+
+- Display Trending Products  
+- Add Items to Cart with Total Updates  
+- Product Recommendation System  
+- Sales Chart Visualization using Chart.js  
+- Responsive and Interactive Interface  
+
+---
