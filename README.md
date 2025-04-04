@@ -19,7 +19,7 @@ The application allows users to:
 - Responsive and Interactive Interface  
 
 ---
-## Dataset Info-
+## Dataset Information-
 
 ### 📁 `DMart.csv`
 Contains product details used in the app:
@@ -43,4 +43,11 @@ Used to identify product combinations frequently bought together for generating 
 | JavaScript      | Logic for charts & interactivity     |
 | Chart.js        | Bar chart rendering                  |
 
+---
+## ⚙ Install Dependencies-
+
+You can install the required libraries using a `requirements.txt` file if provided, or manually using the command below:
+
+```bash
+pip install streamlit pandas
 ---
