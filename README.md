@@ -50,4 +50,4 @@ You can install the required libraries using a `requirements.txt` file if provid
 
 ```bash
 pip install streamlit pandas
----
+exit
