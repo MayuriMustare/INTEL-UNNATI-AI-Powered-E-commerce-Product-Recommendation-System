@@ -65,3 +65,5 @@ http://localhost:8501
 ## Project Demo Video Link-
 
 [YouTube Video Link](https://youtu.be/oRDljOgzAXY)
+
+[Drive Video Link](https://drive.google.com/file/d/1QRiYVOk_4Fb7Mm6KyAbmiSPyGoDXJMnL/view?usp=drivesdk)
